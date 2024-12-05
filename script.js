@@ -58,11 +58,11 @@ play = (user) => {
   const comp = comp_choice();
   //   console.log("comp ", comp);
   if (comp === "rock") {
-    comp_choose.innerHTML = 'Computer- <img src="/My_Projects/JS projects/Stone_paper_scissors/files/rock.png" alt="Rock" />';
+    comp_choose.innerHTML = 'Computer- <img src="./files/rock.png" alt="Rock" />';
   } else if (comp === "paper") {
-    comp_choose.innerHTML = 'Computer- <img src="/My_Projects/JS projects/Stone_paper_scissors/files/paper.png" alt="Rock" />';
+    comp_choose.innerHTML = 'Computer- <img src="./files/paper.png" alt="Rock" />';
   } else {
-    comp_choose.innerHTML = 'Computer- <img src="/My_Projects/JS projects/Stone_paper_scissors/files/scissors.png" alt="Rock" />';
+    comp_choose.innerHTML = 'Computer- <img src="./files/scissors.png" alt="Rock" />';
   }
   msg.classList.add("openmsg");
 
