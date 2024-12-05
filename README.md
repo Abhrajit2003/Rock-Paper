@@ -1,4 +1,5 @@
 **Stone Paper Scissors Game**
+<br/>
 This is a simple Stone Paper Scissors game implemented using HTML, CSS, and JavaScript. It allows players to compete against the computer in a classic game of chance.
 
 The game follows the standard rules: Stone crushes scissors, scissors cuts paper, and paper covers stone. Players make their selection, and the computer randomly chooses its move. The winner is determined based on the chosen moves.
