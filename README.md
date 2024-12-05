@@ -1,4 +1,4 @@
-<h1>h1>Stone Paper Scissors Game</h1>
+<h1>tone Paper Scissors Game</h1>
 <br/>
 This is a simple Stone Paper Scissors game implemented using HTML, CSS, and JavaScript. It allows players to compete against the computer in a classic game of chance.
 
